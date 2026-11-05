@@ -12,16 +12,24 @@ Official releases of White VPN Client. The Windows preview supports Windows 10 a
 
 На скриншотах показан русский интерфейс предварительной версии. Нажмите на изображение, чтобы открыть оригинал.
 
-### Первое подключение / First connection
+### Подключение и выбор сервера / Connection and server selection
 
-[![Экран добавления первой подписки](docs/screenshots/first-connection.jpg)](docs/screenshots/first-connection.jpg)
+[![Главное окно со списком серверов](docs/screenshots/connection.jpg)](docs/screenshots/connection.jpg)
 
 ### Оформление / Appearance
 
 [![Настройки тем и значков](docs/screenshots/appearance.jpg)](docs/screenshots/appearance.jpg)
 
 <details>
-<summary>Ещё скриншоты — zapret, обновления и выбор серверов для замера</summary>
+<summary>Ещё скриншоты — первое подключение, профили, zapret, обновления и замер скорости</summary>
+
+### Первое подключение
+
+[![Экран добавления первой подписки](docs/screenshots/first-connection.jpg)](docs/screenshots/first-connection.jpg)
+
+### Профили и перенос
+
+[![Окно профилей и переноса](docs/screenshots/profiles.jpg)](docs/screenshots/profiles.jpg)
 
 ### zapret
 
