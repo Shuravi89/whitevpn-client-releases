@@ -2,48 +2,56 @@
 
 Official releases of White VPN Client. The Windows preview supports Windows 10 and 11 (x64).
 
-[Download the Windows preview](https://github.com/Shuravi89/whitevpn-client-releases/releases/tag/v0.7.1-rc.4) · [All releases](https://github.com/Shuravi89/whitevpn-client-releases/releases) · [Official website](https://white-vpn.net/en/)
+[Download the Windows preview](https://github.com/Shuravi89/whitevpn-client-releases/releases/tag/v0.7.1-rc.5) · [All releases](https://github.com/Shuravi89/whitevpn-client-releases/releases) · [Official website](https://white-vpn.net/en/)
 
 ## White VPN Client for Windows
 
 Add a compatible VPN subscription, choose a server, and connect. You can check latency and save favorite servers in the app. The preview release includes a Windows installer and a portable ZIP.
 
+English is the default. To switch to Russian, open **Settings → Language / Язык** and select **Русский**.
+
 ## Screenshots
 
-The screenshots show the preview's Russian interface. Select an image to open it at full size.
+White VPN Client v0.7.1-rc.5 in English with demo data. Select an image to open it at full size.
 
 ### Connection and server selection
 
-[![Connection screen and server list](docs/screenshots/connection.jpg)](docs/screenshots/connection.jpg)
+[![Connection and server selection](docs/screenshots/en/connection.png)](docs/screenshots/en/connection.png)
+
+### Settings and language selector
+
+[![Settings and language selector](docs/screenshots/en/language.png)](docs/screenshots/en/language.png)
+
+<details>
+<summary>More English screenshots</summary>
 
 ### Appearance
 
-[![Theme and icon settings](docs/screenshots/appearance.jpg)](docs/screenshots/appearance.jpg)
-
-<details>
-<summary>More screenshots</summary>
+[![Appearance](docs/screenshots/en/appearance.png)](docs/screenshots/en/appearance.png)
 
 ### First connection
 
-[![Adding a first subscription](docs/screenshots/first-connection.jpg)](docs/screenshots/first-connection.jpg)
+[![First connection](docs/screenshots/en/first-connection.png)](docs/screenshots/en/first-connection.png)
 
-### Profiles and transfer
+### Profiles and transfers
 
-[![Profiles and transfer dialog](docs/screenshots/profiles.jpg)](docs/screenshots/profiles.jpg)
+[![Profiles and transfers](docs/screenshots/en/profiles.png)](docs/screenshots/en/profiles.png)
 
 ### zapret
 
-[![zapret tab](docs/screenshots/zapret.jpg)](docs/screenshots/zapret.jpg)
+[![zapret](docs/screenshots/en/zapret.png)](docs/screenshots/en/zapret.png)
 
 ### App updates
 
-[![App updates screen](docs/screenshots/updates.jpg)](docs/screenshots/updates.jpg)
+[![App updates](docs/screenshots/en/updates.png)](docs/screenshots/en/updates.png)
 
 ### Selecting servers for a speed comparison
 
-[![Selecting servers for a speed comparison](docs/screenshots/speed-test.jpg)](docs/screenshots/speed-test.jpg)
+[![Selecting servers for a speed comparison](docs/screenshots/en/speed-test.png)](docs/screenshots/en/speed-test.png)
 
 </details>
+
+[Russian screenshots from the previous preview](docs/screenshots).
 
 ## Credits
 
