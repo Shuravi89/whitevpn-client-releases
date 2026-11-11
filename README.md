@@ -1,16 +1,22 @@
 # White VPN Client
 
-Official releases of White VPN Client. The Windows release supports Windows 10 and 11 (x64).
+Connect to your VPN subscription on Windows or Android. Choose a server, check its latency, and connect from one app.
 
-[Download for Windows](https://github.com/Shuravi89/whitevpn-client-releases/releases/tag/v0.7.1) · [All releases](https://github.com/Shuravi89/whitevpn-client-releases/releases) · [Official website](https://white-vpn.net/en/)
+**Windows 10 and 11 (x64)** · [Download installer](https://github.com/Shuravi89/whitevpn-client-releases/releases/latest/download/WhiteVPN-windows-x64-setup.exe) · [Download portable ZIP](https://github.com/Shuravi89/whitevpn-client-releases/releases/latest/download/WhiteVPN-windows-x64.zip)
 
-## White VPN Client for Windows
+**Android 8.0 and later** · [Download universal APK](https://white-vpn.net/download/android/) · Supports ARM32, ARM64, and x86-64
 
-Add a compatible VPN subscription, choose a server, and connect. You can check latency and save favorite servers in the app. The release includes a Windows installer and a portable ZIP.
+[All releases](https://github.com/Shuravi89/whitevpn-client-releases/releases) · [Official website](https://white-vpn.net/en/)
 
-English is the default. To switch to Russian, open **Settings → Language / Язык** and select **Русский**.
+## First connection
 
-## Screenshots
+1. **Install White VPN Client.** On Windows, run the installer or extract the entire portable ZIP and open `whitevpn.exe`. On Android, open the downloaded APK to install it.
+2. **Add your subscription.** Select **Add subscription** on Windows or tap **+** on Android, then paste your subscription link.
+3. **Connect.** Choose a server and press the connection button. On Android, approve the VPN request when prompted.
+
+English is the default on both platforms. To switch to Russian, open **Settings → Language / Язык** and choose **Русский**.
+
+## Windows screenshots
 
 White VPN Client v0.7.1-rc.5 in English with demo data. Select an image to open it at full size.
 
@@ -53,11 +59,9 @@ White VPN Client v0.7.1-rc.5 in English with demo data. Select an image to open 
 
 [Russian screenshots from the previous preview](docs/screenshots).
 
-## Android
+## Android screenshots
 
-[Download White VPN Client 0.1.0 for Android](https://github.com/Shuravi89/whitevpn-client-releases/releases/tag/android-v0.1.0). The universal APK supports Android 8.0 or later on ARM 32-bit, ARM 64-bit, and x86-64 devices.
-
-English is the default. Open **Settings → Language / Язык** to switch to Russian.
+Server selection, the language menu, and appearance settings in White VPN Client 0.1.0. Select an image to open it at full size.
 
 <a href="docs/screenshots/android/en/servers.jpg"><img src="docs/screenshots/android/en/servers.jpg" alt="Server list" width="225"></a>
 <a href="docs/screenshots/android/en/language.jpg"><img src="docs/screenshots/android/en/language.jpg" alt="Language selector" width="225"></a>
@@ -66,3 +70,4 @@ English is the default. Open **Settings → Language / Язык** to switch to R
 ## Credits
 
 White VPN Client is based on [SVOI](https://github.com/1atex/svoi), distributed under the [MIT license](https://github.com/1atex/svoi/blob/main/LICENSE).
+
