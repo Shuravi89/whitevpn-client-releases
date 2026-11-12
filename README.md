@@ -1,20 +1,22 @@
 # White VPN Client
 
-Connect to your VPN subscription on Windows or Android. Choose a server, check its latency, and connect from one app.
+Connect to your VPN subscription on Windows, Android, or macOS. Choose a server, check its latency, and connect from one app.
 
 **Windows 10 and 11 (x64)** · [Download installer](https://github.com/Shuravi89/whitevpn-client-releases/releases/latest/download/WhiteVPN-windows-x64-setup.exe) · [Download portable ZIP](https://github.com/Shuravi89/whitevpn-client-releases/releases/latest/download/WhiteVPN-windows-x64.zip)
 
 **Android 8.0 and later** · [Download universal APK](https://white-vpn.net/download/android/) · Supports ARM32, ARM64, and x86-64
 
+**macOS 13 or later (Apple Silicon)** · [Download preview DMG](https://github.com/Shuravi89/whitevpn-client-releases/releases/download/macos-v0.7.1-preview.1/WhiteVPN-0.7.1-preview.1-macos-arm64.dmg) · [macOS release notes](https://github.com/Shuravi89/whitevpn-client-releases/releases/tag/macos-v0.7.1-preview.1)
+
 [All releases](https://github.com/Shuravi89/whitevpn-client-releases/releases) · [Official website](https://white-vpn.net/en/)
 
 ## First connection
 
-1. **Install White VPN Client.** On Windows, run the installer or extract the entire portable ZIP and open `whitevpn.exe`. On Android, open the downloaded APK to install it.
-2. **Add your subscription.** Select **Add subscription** on Windows or tap **+** on Android, then paste your subscription link.
-3. **Connect.** Choose a server and press the connection button. On Android, approve the VPN request when prompted.
+1. **Install White VPN Client.** On Windows, run the installer or extract the entire portable ZIP and open `whitevpn.exe`. On Android, open the downloaded APK to install it. On macOS, open the DMG and drag WhiteVPN into **Applications**.
+2. **Add your subscription.** Select **Add subscription** on Windows or macOS, or tap **+** on Android, then paste your subscription link.
+3. **Connect.** Choose a server and press the connection button. On Android, approve the VPN request when prompted. On macOS, approve the request to change network settings if it appears.
 
-English is the default on both platforms. To switch to Russian, open **Settings → Language / Язык** and choose **Русский**.
+English is the default. To switch to Russian, open **Settings → Language / Язык** and choose **Русский**.
 
 ## Windows screenshots
 
