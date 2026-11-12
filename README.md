@@ -69,6 +69,18 @@ Server selection, the language menu, and appearance settings in White VPN Client
 <a href="docs/screenshots/android/en/language.jpg"><img src="docs/screenshots/android/en/language.jpg" alt="Language selector" width="225"></a>
 <a href="docs/screenshots/android/en/appearance.jpg"><img src="docs/screenshots/android/en/appearance.jpg" alt="Appearance settings" width="225"></a>
 
+## macOS screenshots
+
+White VPN Client 0.7.1-preview.1 on Apple Silicon, captured in GitHub Actions. Select an image to open it at full size.
+
+### Connection screen in English
+
+[![Connection screen in English](docs/screenshots/macos/en/connection.png)](docs/screenshots/macos/en/connection.png)
+
+### Connection screen in Russian
+
+[![Connection screen in Russian](docs/screenshots/macos/ru/connection.png)](docs/screenshots/macos/ru/connection.png)
+
 ## Credits
 
 White VPN Client is based on [SVOI](https://github.com/1atex/svoi), distributed under the [MIT license](https://github.com/1atex/svoi/blob/main/LICENSE).
